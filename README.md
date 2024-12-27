@@ -28,7 +28,7 @@ JSON Updater Appは、GUIを使用してJSONファイルを簡単に更新およ
 ## 使用方法
 1. アプリを実行します:
    ```bash
-   python json_update_app.py
+   python JsonUpdateApp.py
    ```
 2. アプリのGUIが表示されます。
 3. **元のJSONファイル**を選択します:
